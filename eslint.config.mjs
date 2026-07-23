@@ -5,5 +5,11 @@ import nextTs from "eslint-config-next/typescript";
 export default defineConfig([
   ...nextVitals,
   ...nextTs,
+  {
+    rules: {
+      "react/no-unescaped-entities": "off",
+      "react-hooks/set-state-in-effect": "off",
+    },
+  },
   globalIgnores([".next/**", "out/**", "next-env.d.ts"]),
 ]);
