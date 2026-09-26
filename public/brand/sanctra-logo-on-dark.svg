@@ -1,6 +1,7 @@
-<svg width="159" height="156" viewBox="0 0 159 156" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="159" height="156" fill="url(#pattern0_197_1316)"/>
+<svg width="159" height="112" viewBox="0 0 159 112" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="159" height="112" fill="url(#pattern0_197_1316)" clip-path="url(#markClip)"/>
 <defs>
+<clipPath id="markClip"><rect width="159" height="104"/></clipPath>
 <pattern id="pattern0_197_1316" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_197_1316" transform="matrix(0.00560938 0 0 0.00572344 -0.574594 -0.333964)"/>
 </pattern>
